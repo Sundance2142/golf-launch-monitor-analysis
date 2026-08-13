@@ -67,11 +67,6 @@ Variables include:
 
 ---
 
-## Results
-
-(Include screenshots of your graphs.)
-
----
 
 ## Future Improvements
 
